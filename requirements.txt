@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langgraph
+crewai
+langchain-openai
+chromadb
+fastapi
+uvicorn
+python-dotenv
+pydantic
+requests
+beautifulsoup4
